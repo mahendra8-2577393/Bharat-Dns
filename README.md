@@ -88,20 +88,3 @@ For Mac/Linux:
 dig @192.168.1.2 google.com
 ```
 where 192.168.1.2 must be replaced by your server PC's IP.
-
-> Please refer to this video for a complete step by step demonstration - https://www.youtube.com/watch?v=MPd8maJ8cZQ
-
-* One more thing, after making the video I added twitter in blacklist so, you might not able to visit twitter
-
-If you want to see a frontend, [here it is](https://sarthakg043.github.io/bharatdns-frontend/)
-
-The frontend is an admin Live Monitoring dashboard.
-
-
-
-## Contact the Developers
-
-1. Sarthak Gupta - 2022BCY0054 - sarthak22bcy54@iiitkottayam.ac.in
-2. Dhanush Hebbar - 2022BCY0021
-3. Arjun R. Nair
-4. Rohit Reddy
